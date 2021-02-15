@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\honda\\repos\\csharp-15-v2\\FactoryPatternExample\\FactoryPatternExample\\FactoryPatternExample.csproj",
+      "projectUniqueName": "C:\\Users\\honda\\repos\\csharp-15-v2\\FactoryPattern\\FactoryPatternExample\\FactoryPatternExample.csproj",
       "projectName": "FactoryPatternExample",
-      "projectPath": "C:\\Users\\honda\\repos\\csharp-15-v2\\FactoryPatternExample\\FactoryPatternExample\\FactoryPatternExample.csproj",
+      "projectPath": "C:\\Users\\honda\\repos\\csharp-15-v2\\FactoryPattern\\FactoryPatternExample\\FactoryPatternExample.csproj",
       "packagesPath": "C:\\Users\\honda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\honda\\repos\\csharp-15-v2\\FactoryPatternExample\\FactoryPatternExample\\obj\\",
+      "outputPath": "C:\\Users\\honda\\repos\\csharp-15-v2\\FactoryPattern\\FactoryPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

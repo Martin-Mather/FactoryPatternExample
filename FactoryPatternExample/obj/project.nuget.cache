@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKOsBxLjQdIcT7mBRozFcHX0Gq4yz2W+OxofbGxlQcP04Bcooygh1B1nYVbP6wCdDfZ8rDzj/pGKues7taorSA==",
+  "dgSpecHash": "8poxnkKlFLYPVvCUGso6VtK/fazibjO36re6oR4bUiU2iM3gQrZgeVHqOvekW3Mkj3lVORxjlNPFPx0BI02O0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\honda\\repos\\csharp-15-v2\\FactoryPatternExample\\FactoryPatternExample\\FactoryPatternExample.csproj",
+  "projectFilePath": "C:\\Users\\honda\\repos\\csharp-15-v2\\FactoryPattern\\FactoryPatternExample\\FactoryPatternExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
